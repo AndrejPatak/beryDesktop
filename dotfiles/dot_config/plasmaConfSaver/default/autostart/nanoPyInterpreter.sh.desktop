@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec='/home/bery/Custom Login Scripts/nanoPyInterpreter.sh'
+Icon=dialog-scripts
+Name=nanoPyInterpreter.sh
+Type=Application
+X-KDE-AutostartScript=true
