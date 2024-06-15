@@ -1,0 +1,40 @@
+[KFileDialog Settings]
+Recent Files[$e]=Win10_Valorant.jpg,file:$HOME/Pictures/Wallpapers/DragonDecPack/Unthemed/Scenery/CherryBlossom-Scorched-Earth-Mirrored.jpg,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Minimal-FoxLogo.png,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Logo.png,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-StellarPhenomenon.png,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-RingedEarth.jpg,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-Galaxy3.png,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-Galaxy2.png,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-CloudyQuasar2.png,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-CloudyQuasar1.png,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-BlackHole3.png,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-BlackHole2.png,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-BlackHole1.png,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-AsteroidMiner.png,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Ghost.png,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/CatppuccinMocha-Error.jpg
+Recent URLs[$e]=file:$HOME/Pictures/Wallpapers/,file:$HOME/Pictures/,file:$HOME/,file:$HOME/Pictures/Wallpapers/DragonDecPack/Catppuccin/Mocha/,file:$HOME/Pictures/Wallpapers/DragonDecPack/Unthemed/Scenery/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=529
+1920x1080 screen: Width=410
+2 screens: Height=529
+2 screens: Width=410
+
+[PlasmaTransientsConfig]
+PreloadWeight=0
+
+[PlasmaViews][Panel 26][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 28]
+floating=1
+panelOpacity=1
+panelVisibility=0
+
+[PlasmaViews][Panel 28][Defaults]
+maxLength=1920
+minLength=1920
+thickness=44
+
+[PlasmaViews][Panel 28][Horizontal1920]
+maxLength=1920
+minLength=1920
+
+[PlasmaViews][Panel 3]
+floating=1
+panelVisibility=2
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=44
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/folderview_fix_recursive_screenmapping.js

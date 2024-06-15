@@ -1,0 +1,39 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[DetailsMode]
+PreviewSize=32
+
+[ExtractDialog]
+1920x1080 screen: Height=560
+1920x1080 screen: Width=1280
+2 screens: Height=560
+2 screens: Width=1280
+DirHistory[$e]=$HOME/Downloads/oopsdead/,/run/media/bery/retropie/home/pi/RetroPie/roms/psp/,$HOME/Pictures/
+
+[General]
+Version=202
+ViewPropsTimestamp=2023,8,27,23,30,0.391
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME,file:$HOME/Downloads/balenaEtcher-1.18.11-x64.AppImage
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/Downloads/,file:$HOME/Downloads/oopsdead/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=458
+1920x1080 screen: Width=373
+2 screens: Height=616
+2 screens: Width=438
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=kraorathumbnail,imagethumbnail,jpegthumbnail,audiothumbnail,windowsimagethumbnail,djvuthumbnail,svgthumbnail,comicbookthumbnail,exrthumbnail,windowsexethumbnail,ebookthumbnail,cursorthumbnail,appimagethumbnail,fontthumbnail,opendocumentthumbnail,directorythumbnail
+
+[Search]
+Location=Everywhere

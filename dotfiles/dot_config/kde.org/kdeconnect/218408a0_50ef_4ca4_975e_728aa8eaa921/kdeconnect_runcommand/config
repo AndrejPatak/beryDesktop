@@ -1,0 +1,2 @@
+[General]
+commands="@ByteArray({\"_64057c87_8ed8_48ab_bb84_cc4640dd7811_\":{\"command\":\"bluetoothctl disconnect 2C:BE:EB:16:EF:B8\\n\",\"name\":\"btDisconnectFromPhone\"},\"_66637229_d73a_4ea2_8b1c_5db8b8a4a416_\":{\"command\":\"bluetoothctl connect 2C:BE:EB:16:EF:B8\\n\",\"name\":\"btConnectToPhone\"}})"

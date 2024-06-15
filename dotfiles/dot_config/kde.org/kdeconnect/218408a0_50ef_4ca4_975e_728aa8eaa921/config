@@ -1,0 +1,4 @@
+[Plugins]
+kdeconnect_bigscreenEnabled=true
+kdeconnect_screensaver_inhibitEnabled=true
+kdeconnect_virtualmonitorEnabled=true
