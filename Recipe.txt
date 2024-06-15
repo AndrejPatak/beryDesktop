@@ -1,0 +1,29 @@
+##hi guy##
+ * means its mandatory to recreate this setup
+
+sorry if at any point i sound condescending,
+i have no clue how much about linux you know
+
+OS: EndeavourOS
+Kernel: Linux 6.9.3-arch1-1
+DE: KDE Plasma 6.0.5 *
+Theme: Breeze * (it comes default with KDE, you can change it to any other one)
+Icons: breeze-dark
+Font: Noto Sans
+Cursor: breeze
+
+--widgets--
+KDE connect widget (comes with KDE plasma) [top right]
+Analogue clock (comes with KDE plasma) [middle right]
+Media Player (comes with KDE plasma) [bottom right]
+
+Pager (comes with KDE plasma) [top left]
+Sticky note (comes with KDE plasma) {both od the ones on the} [middle left]
+
+--panel setup (from left to right)--
+Lock/Logout (comes with KDE plasma)
+KDE connect, again (comes with KDE plasma)
+Icon-only task manager (comes with KDE plasma)
+System tray, it includes all the icons from the little bell to the arrow (comes with KDE plasma)
+Digital Clock (comes with KDE plasma)
+Peek at Desktop (coes with KDE plasma)
